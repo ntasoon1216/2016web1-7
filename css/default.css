@@ -6,26 +6,35 @@
 }
 
 body{
-  background-color: gray;
+  background-color: #ffffe0;
 }
 
 header{
-  background-color: orange;
+  background-color: #ff6347;
 }
-
+#main{
+  background-color: #e6e6fa;
+  width:calc(100% - 200px);
+  min-width: 500px;
+  float:left;
+}
 #main1{
-  background-color: green;
+  background-color: #90ee90;
   width: 500px;
+  float: left;
 }
 #main2{
-  background-color: yellow;
+  background-color: #ffb6c1;
   width: 500px;
+  float: left;
 }
 
 aside{
-  background-color: blue;
+  background-color: #4682b4;
   width: 200px;
+  float: right;
 }
 footer{
-  background-color: purple;
+  background-color: #dda0dd;
+  clear: both;
 }
