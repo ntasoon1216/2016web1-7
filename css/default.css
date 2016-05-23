@@ -16,7 +16,7 @@ header{
   background-color: #e6e6fa;
   width:calc(100% - 200px);
   min-width: 500px;
-  float:left;
+  float: left;
 }
 #main1{
   background-color: #90ee90;
