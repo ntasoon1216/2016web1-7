@@ -12,12 +12,22 @@ body{
 header{
   background-color: #ff6347;
 }
+
 #main{
   background-color: #e6e6fa;
   width: calc(100% - 200px);
   min-width: 500px;
   float: left;
 }
+
+ .box{
+   background-color: #f0e68c;
+   color: #191970;
+   width: 240px;
+   margin: 5px;
+   float: left;
+ }
+
 #main1{
   background-color: #90ee90;
   width: 500px;
